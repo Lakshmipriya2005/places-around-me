@@ -46,7 +46,7 @@ Include pictures and contents for your subpages and map them using urls and view
 ```
 
 ## Output:
-![map](imagemap.png)
+![map](mapimage.pdf)
 
 ## Result:
 Thus a website is developed to display details about my school near my house.
