@@ -19,28 +19,24 @@ Include pictures and contents for your subpages and map them using urls and view
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    
-    <title>myplaces</title>
-</head>
-<body>
-   
-<img id="Image-Maps-Com-image-maps-2023-04-19-142410" src="images/sivakasi.jpg" border="0" width="1819" height="938" orgWidth="1819" orgHeight="938" usemap="#image-maps-2023-04-19-142410" alt="" />
-<map name="image-maps-2023-04-19-142410" id="ImageMapsCom-image-maps-2023-04-19-142410">
-<area  alt="" title="Bilal-Mahal" href="milal.html" shape="rect" coords="452,285,574,349" style="outline:none;" target="_self"    data-maphilight='Milal-mahal' />
-<area  alt="" title="Bell-Hotel" href="bellhotel.html" shape="rect" coords="606,219,720,281" style="outline:none;" target="_self"    data-maphilight='Bell-Hotel' />
-<area  alt="" title="SIvakasi-lions" href="sivakasi.html" shape="rect" coords="1168,353,1357,453" style="outline:none;" target="_self"    data-maphilight='Sivakasi-lions-school
+    <head>
+
+    </head>
+    <body>
+        <img id="Image-Maps-Com-image-maps-2023-04-20-084957" src="mymap.jpg" border="0" width="1920" height="974" orgWidth="1920" orgHeight="974" usemap="#image-maps-2023-04-20-084957" alt="" />
+<map name="image-maps-2023-04-20-084957" id="ImageMapsCom-image-maps-2023-04-20-084957">
+<area  alt="" title="Arunachala Hill" href="hill.html" shape="rect" coords="642,370,798,430" style="outline:none;" target="_self"    data-maphilight='aurachala hill' />
+<area  alt="" title="cave" href="cave.html" shape="rect" coords="689,489,885,565" style="outline:none;" target="_self"    data-maphilight='cave' />
+<area  alt="" title="college" href="college.html" shape="rect" coords="910,725,1046,836" style="outline:none;" target="_self"    data-maphilight='college
+
 ' />
-<area  alt="" title="Theatre" href="theatre.html" shape="rect" coords="1340,208,1558,308" style="outline:none;" target="_self"    data-maphilight='Theatre' />
-<area  alt="" title="Samsung" href="samsung.html" shape="rect" coords="791,581,1029,681" style="outline:none;" target="_self"    data-maphilight='Samsung-Mobiles
-' />
-<area shape="rect" coords="1817,936,1819,938" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
+<area  alt="" title="hotel" href="hotel.html" shape="rect" coords="982,305,1214,371" style="outline:none;" target="_self"    data-maphilight='hotel' />
+<area  alt="" title="school" href="school.html" shape="rect" coords="230,714,470,813" style="outline:none;" target="_self"    data-maphilight='school' />
+<area shape="rect" coords="1918,972,1920,974" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
 </map>
 
-
-</body>
-</html> 
-
+    </body>
+</html>
 
 
 ```
